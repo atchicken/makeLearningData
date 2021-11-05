@@ -1,2 +1,21 @@
 # makeLearningData
-Create Input Data and Correct Data Using Machine Learning
+Create Input Data and Correct Data Using Machine Learning(Segmentation Task)
+This Time It's a Circle, But Other shapes are Acceptable
+
+## How to Use
+```bash:bash
+python makeCircle.py
+```
+
+## Examples
+・Input Image
+
+![Input](https://user-images.githubusercontent.com/93382642/139674105-68889d73-669d-4d6d-a551-658b13f6985c.png)
+
+・Label Image
+
+![Label](https://user-images.githubusercontent.com/93382642/139674024-c9d08e2c-42a4-4b66-acc1-e10de635b38e.png)
+
+## Details(Japanese)
+・[Qiita](https://qiita.com/atchicken/items/f196afb3ce5ff96087c6)
+
