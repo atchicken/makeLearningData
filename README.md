@@ -4,8 +4,10 @@ This Time It's a Circle, But Other shapes are Acceptable
 
 ## How to Use
 ```bash:bash
-python makeCircle.py
+python makeCircle.py -tn {Learning Data Number} -en {Evaluation Data Number} ¥
+-ts {Learning Data Save Directry} -es {Evaluation Data Save Directory} -s {Circle Size}
 ```
+
 
 ## Examples
 ・Input Image
