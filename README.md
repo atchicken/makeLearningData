@@ -17,5 +17,5 @@ python makeCircle.py
 ![Label](https://user-images.githubusercontent.com/93382642/139674024-c9d08e2c-42a4-4b66-acc1-e10de635b38e.png)
 
 ## Details(Japanese)
-・[Qiita](https://qiita.com/atchicken/items/f196afb3ce5ff96087c6)
+・[Blog](https://atchicken.com/create_ml_data/)
 
